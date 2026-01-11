@@ -1,0 +1,18 @@
+# Dependências para a Calculadora Profissional
+
+# Interface Web com Streamlit (Recomendado)
+streamlit>=1.28.0
+
+# Interface gráfica desktop (opcional)
+customtkinter>=5.2.0
+
+# Para instalar todas as dependências:
+# pip install -r requirements.txt
+
+# Para executar a versão Streamlit:
+# streamlit run calculadora_streamlit.py
+
+# Nota: 
+# - Streamlit é a interface web principal
+# - customtkinter é opcional para interface desktop
+# - tkinter já vem incluído no Python
