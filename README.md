@@ -78,6 +78,6 @@ Resultado: 10.0 + 5.0 = 15.0
 
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
-## 👤 Autor
+## 👤 Autor: Yehudi Lima
 
 Criado com ❤️ em Python
